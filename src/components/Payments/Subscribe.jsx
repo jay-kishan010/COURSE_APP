@@ -13,6 +13,7 @@ const Subscribe = () => {
 <Box p="4">
     <VStack textAlign={"center"} px="8" mt={"4"} spacing ="8">
         <Text color={'black'} children={`Join Pro Pack and get access to all content.`}/>
+    <Heading size="md" 
     </VStack>
 </Box>
          </VStack>
